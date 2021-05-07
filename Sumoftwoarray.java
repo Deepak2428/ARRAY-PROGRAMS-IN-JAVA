@@ -79,7 +79,7 @@ public static void main(String[] args) {
             System.out.println(a[i]);
         }
     }
-    else    // SECOND ARRAY SIZE IS GREATER THAN FIRST. DOING SAME THING AS DONE EARLIER
+    else    // SECOND ARRAY SIZE IS GREATER THAN FIRST. DOING SAME THING AS DONE EARLIER IN CASE OF N>M
     {
         int c[]=new int[m];
         for(int i=0,k=0;i<m;i++)
